@@ -1,0 +1,58 @@
+# Core HTTP & Crawling
+httpx[http2]
+aiohttp
+scrapy
+
+# JS Rendering
+playwright
+
+# HTML Parsing & Content Extraction
+beautifulsoup4
+lxml
+html5lib
+readability-lxml
+newspaper3k
+trafilatura
+
+# Structured Data
+extruct
+pyrdfa3
+mf2py
+
+# NLP & Intelligence
+spacy
+langdetect
+transformers
+torch
+
+# Storage
+pymongo
+elasticsearch
+redis
+
+# Utilities
+pydantic
+python-dotenv
+tldextract
+simhash
+Pillow
+validators
+w3lib
+
+# Async & Performance
+asyncio
+uvloop
+aiofiles
+
+# Rate Limiting & Retry
+tenacity
+aiolimiter
+
+# Logging & Monitoring
+structlog
+rich
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
